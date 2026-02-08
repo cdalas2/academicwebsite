@@ -24,7 +24,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: calas@usc.edu
+  email: cdalas@icloud.com
   address:
     city: Los Angeles
     region: CA
