@@ -9,9 +9,9 @@ if ! command -v go &> /dev/null; then
     export GOPATH="/tmp/go-packages"
 fi
 
-# Download Hugo modules
+# Download Hugo modules (don't upgrade)
 echo "Downloading Hugo modules..."
-hugo mod get
+hugo mod download
 
 # Build site
 echo "Building site..."
