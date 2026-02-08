@@ -56,5 +56,17 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-Our manuscript is currently in peer review. We've uploaded a copy of our submission to <a href='https://arxiv.org/abs/2407.11758'>arXiv</a> for previewing [Alas et. al., 2024].
+Our manuscript has been published in <a href='https://link.aps.org/doi/10.1103/PhysRevResearch.7.L012019'>Physical Review Research</a> [Alas et. al., 2025].
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="26px">}}
+  In the News
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+Our work has been featured in news stories highlighting its potential implications for understanding and treating Emery-Dreifuss muscular dystrophy (EDMD). A <a href='https://dornsife.usc.edu/news-briefs/news-brief/2025/03/scientists-unlock-clues-to-new-treatments-for-muscular-dystrophy/'>USC Dornsife news brief</a> described how our research combines advanced imaging techniques and theoretical physics to uncover the molecular rules driving the arrangement of emerin into nanoclusters, and the mechanisms leading to their defective assembly in people with muscular dystrophy. These emerin nanoclusters -- about 100,000 times smaller than a human hair's width -- play a crucial role in how cells sense and respond to mechanical forces, a process known as mechanotransduction. When mechanotransduction fails, it can lead to diseases like EDMD.
+{{< /typography >}}
+  <br>
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+The <a href='https://www.nsf.gov/news/leopard-spots-protein-nanoclusters-how-pattern-rules-could'>U.S. National Science Foundation (NSF)</a> also highlighted our research, drawing a connection between Alan Turing's mathematical theory of pattern formation -- which explains patterns such as leopard spots and zebra stripes -- and our work on emerin nanocluster self-assembly. The NSF story described how our study uses these pattern formation principles at the nanoscale to explain the organization of emerin protein nanoclusters and how mutations can disrupt this process, potentially leading to muscular dystrophy.
 {{< /typography >}}
