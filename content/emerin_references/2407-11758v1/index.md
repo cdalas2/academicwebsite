@@ -8,8 +8,8 @@ authors:
 - C. D. Alas, L. Wu, F. Pinaud, and C. A. Haselwandter
 tags:
 categories: [emerin-domains]
-date: '2024-07-16'
-lastmod: 2022-08-25T00:45:40-07:00
+date: '2025-01-01'
+lastmod: 2025-01-01T00:00:00-07:00
 featured: false
 draft: false
 
@@ -27,14 +27,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-07-16T07:45:40.351286Z'
+publishDate: '2025-01-01T00:00:00.000000Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv*'
+publication: '*Phys. Rev. Res.* **7**, L012019 (2025)'
+doi: 10.1103/PhysRevResearch.7.L012019
 links:
 - name: URL
-  url: https://arxiv.org/abs/2407.11758
+  url: https://link.aps.org/doi/10.1103/PhysRevResearch.7.L012019
 
 url_pdf: 'https://www.cdalas.com/uploads/2407.11758v1.pdf'
 ---
