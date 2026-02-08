@@ -56,7 +56,7 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-Our manuscript has been published in <a href='https://link.aps.org/doi/10.1103/PhysRevResearch.7.L012019'>Physical Review Research</a> [Alas et. al., 2025].
+Our manuscript has been published in <a href='/uploads/PhysRevResearch.7.L012019.pdf'>Physical Review Research</a> [Alas et. al., 2025].
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="26px">}}
