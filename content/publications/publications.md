@@ -38,6 +38,25 @@ design:
 ---
 <center>
 {{< typography font="Merriweather" size="30px" weight="bold">}}
+  In the News
+{{< /typography >}}
+</center>
+<br>
+{{< typography font="Roboto Serif" size="20px" weight="100">}}
+Our research on emerin nanodomains has been featured in the following news stories:
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="18px" weight="100">}}
+- <a href='https://dornsife.usc.edu/news-briefs/news-brief/2025/03/scientists-unlock-clues-to-new-treatments-for-muscular-dystrophy/'>Scientists unlock clues to new treatments for muscular dystrophy</a> - USC Dornsife News Brief
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="18px" weight="100">}}
+- <a href='https://www.nsf.gov/news/leopard-spots-protein-nanoclusters-how-pattern-rules-could'>Leopard spots to protein nanoclusters: How pattern rules could help explain muscular dystrophy</a> - U.S. National Science Foundation
+{{< /typography >}}
+<br>
+<br>
+<center>
+{{< typography font="Merriweather" size="30px" weight="bold">}}
   Publications
 {{< /typography >}}
 </center>
