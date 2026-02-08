@@ -12,7 +12,7 @@ subtitle:
 draft: false
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+autolink: true
 
   # Email form provider
   form:
@@ -24,7 +24,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: calas@usc.edu
+  email: cdalas@icloud.com
   address:
     city: Los Angeles
     region: CA
