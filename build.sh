@@ -13,6 +13,6 @@ fi
 echo "Downloading Hugo modules..."
 hugo mod download
 
-# Build site
+# Build site with caching
 echo "Building site..."
-hugo --gc --minify
+hugo --gc --minify --cacheDir /tmp/.hugocache
