@@ -37,5 +37,5 @@ links:
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevResearch.7.L012019
 
-url_pdf: 'https://www.cdalas.com/uploads/2407.11758v1.pdf'
+url_pdf: 'https://www.cdalas.com/uploads/PhysRevResearch.7.L012019.pdf'
 ---
