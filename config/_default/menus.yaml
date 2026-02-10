@@ -29,8 +29,8 @@ main:
   - name: Publications
     url: '/publications/'
     weight: 30
-  - name: CBS Poster 2022
-    url: '/posters/qcb-2022/qcb-2022-poster.pdf'
+  - name: Awards & Outreach
+    url: '/awards-and-outreach/'
     weight: 50
   - name: 'PDA Gallery'
     url: '/pda-gallery/'
