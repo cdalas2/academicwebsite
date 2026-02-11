@@ -81,7 +81,7 @@ content:
         media: swimmers_in_quasi2D.png
         fit: contain
     - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media simulations](/research/bacteria-in-porous-media-simulations)</b></p>'
-      content: '<p style = "font-size: 16px; color: white;">How do bacteria navigate and diffuse through porous media using hopping-and-trapping dynamics?</p>'
+      content: '<p style = "font-size: 16px; color: white;">Can a simple kinetic Monte Carlo model predict bacterial diffusion in porous media and reveal the essential physics of transport?</p>'
       align: left
       background:
         position: top
