@@ -80,15 +80,6 @@ content:
         brightness: 0.95
         media: swimmers_in_quasi2D.png
         fit: contain
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media simulations](/research/bacteria-in-porous-media-simulations)</b></p>'
-      content: '<p style = "font-size: 16px; color: white;">How do bacteria navigate and diffuse through porous media using hopping-and-trapping dynamics?</p>'
-      align: left
-      background:
-        position: top
-        color: '#333'
-        brightness: 0.95
-        media: bacteria_porous_media_placeholder.png
-        fit: contain
 #    - title: '<br><br><br><br><br><p style = "font-size: 20px">Stochastic lattice model for emerin nanodomains</p>'
 #      content: '<p style = "font-size: 12px">Can we use a stochastic lattice model to study how defective emerin organization and self-assembly can produce muscle degenerative diseases?</p>'
 #      align: center
