@@ -23,7 +23,7 @@ weight: 10
 <br>
 <center>
 {{< typography font="Roboto Serif" size="26px">}}
-  Bacteria in porous media simulations
+  Bacteria in porous media: Kinetic Monte Carlo model
 {{< /typography >}}
 </center>
 

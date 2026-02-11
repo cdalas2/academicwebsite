@@ -26,7 +26,7 @@ main:
     parent: research
     url: /research/microorganisms-in-quasi-2d-membranes/
     weight: 40
-  - name: Bacteria in porous media simulations
+  - name: Bacteria in porous media: KMC model
     parent: research
     url: /research/bacteria-in-porous-media-simulations/
     weight: 50

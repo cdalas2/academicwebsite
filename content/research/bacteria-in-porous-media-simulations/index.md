@@ -1,6 +1,6 @@
 ---
 type: widget_page
-title: 'Bacteria in porous media simulations'
+title: 'Bacteria in porous media: Kinetic Monte Carlo model'
 summary: 'Kinetic Monte Carlo simulations of bacterial hopping and trapping in porous media'
 date: "2021-09-23T00:00:00Z"
 image:
