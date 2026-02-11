@@ -28,7 +28,7 @@ weight: 10
 </center>
 
 <!-- Main figure showing bacteria hopping and trapping in porous media -->
-<img src="7AECACC3-A78A-4470-992B-2C78B9D32C70.png" alt="Bacteria hopping and trapping in porous media">
+<img src="bacteria_porous_media.png" alt="Bacteria hopping and trapping in porous media">
 
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
