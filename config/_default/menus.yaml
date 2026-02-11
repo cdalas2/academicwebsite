@@ -26,6 +26,10 @@ main:
     parent: research
     url: /research/microorganisms-in-quasi-2d-membranes/
     weight: 40
+  - name: Bacteria in porous media simulations
+    parent: research
+    url: /research/bacteria-in-porous-media-simulations/
+    weight: 50
   - name: Publications
     url: '/publications/'
     weight: 30
