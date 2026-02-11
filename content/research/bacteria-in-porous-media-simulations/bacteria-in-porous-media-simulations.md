@@ -27,8 +27,8 @@ weight: 10
 {{< /typography >}}
 </center>
 
-<!-- PLACEHOLDER FOR MAIN FIGURE -->
-<img src="diffusivity_comparison.png" alt="Comparison of simulated and measured diffusivities">
+<!-- Main figure showing bacteria hopping and trapping in porous media -->
+<img src="7AECACC3-A78A-4470-992B-2C78B9D32C70.png" alt="Bacteria hopping and trapping in porous media">
 
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
