@@ -80,7 +80,7 @@ content:
         brightness: 0.95
         media: swimmers_in_quasi2D.png
         fit: contain
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media: KMC model](/research/bacteria-in-porous-media-simulations)</b></p>'
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media: Kinetic Monte Carlo model](/research/bacteria-in-porous-media-simulations)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">Can a simple kinetic Monte Carlo model predict bacterial diffusion in porous media and reveal the essential physics of transport?</p>'
       align: left
       background:
