@@ -80,6 +80,15 @@ content:
         brightness: 0.95
         media: swimmers_in_quasi2D.png
         fit: contain
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media: Kinetic Monte Carlo model](/research/bacteria-in-porous-media-simulations)</b></p>'
+      content: '<p style = "font-size: 16px; color: white;">Can a simple kinetic Monte Carlo model predict bacterial diffusion in porous media and reveal the essential physics of transport?</p>'
+      align: left
+      background:
+        position: top
+        color: '#333'
+        brightness: 1.2
+        media: bacteria_porous_media.jpeg
+        fit: contain
 #    - title: '<br><br><br><br><br><p style = "font-size: 20px">Stochastic lattice model for emerin nanodomains</p>'
 #      content: '<p style = "font-size: 12px">Can we use a stochastic lattice model to study how defective emerin organization and self-assembly can produce muscle degenerative diseases?</p>'
 #      align: center
