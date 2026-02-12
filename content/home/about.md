@@ -86,7 +86,7 @@ content:
       background:
         position: top
         color: '#333'
-        brightness: 0.95
+        brightness: 1.2
         media: bacteria_porous_media.png
         fit: contain
 #    - title: '<br><br><br><br><br><p style = "font-size: 20px">Stochastic lattice model for emerin nanodomains</p>'
