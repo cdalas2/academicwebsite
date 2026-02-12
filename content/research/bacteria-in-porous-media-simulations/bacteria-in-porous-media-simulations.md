@@ -33,7 +33,7 @@ weight: 10
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
 > {{< typography font="Roboto Serif" size="18px" weight="100">}}
-    Cartoon diagram visualizing the hopping and trapping motion of bacteria in porous media. Bacteria swim or "hop" in straight trajectories until they become "trapped" by pore confinement, where they reorient before hopping again in a new direction.
+    Cartoon diagram visualizing the hopping and trapping motion of bacteria in porous media. Bacteria swim or "hop" in straight trajectories with mean hop length ⟨ℓ⟩ determined by the mean chord (channel) length of the porous medium, until they become "trapped" by pore confinement. While trapped, they spend a mean time ⟨τ⟩ reorienting to escape the pore before hopping again in a new direction.
   {{< /typography >}}
 
 <br>
@@ -42,7 +42,7 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  However, in porous media, flagellated bacteria employ a different two-state motion called "hopping-and-trapping" [Bhattacharjee & Datta, 2019]. The bacterium swims or "hops" in a straight direction until it becomes stuck or "trapped" due to confinement by neighboring pores. The mean hop length ⟨ℓ⟩ is determined by the mean chord length—the characteristic channel size—of the porous medium. While trapped, the bacterium spends a mean time ⟨τ⟩ reorienting to escape the pore, eventually moving off in an almost random direction, with a slightly higher probability of returning in the direction it came from (though I assume uniform reorientation for simplicity). Bacteria spend significantly more time trapped than hopping. Therefore, estimation of their diffusivity through porous media can be obtained from the average hop length ⟨ℓ⟩ and trapped time ⟨τ⟩, rather than the hop time as in homogeneous "run-and-tumble" motion.
+  However, in porous media, flagellated bacteria employ a different two-state motion called "hopping-and-trapping" [Bhattacharjee & Datta, 2019]. The bacterium swims or "hops" in a straight direction until it becomes stuck or "trapped" due to confinement by neighboring pores. While trapped, the bacterium reorients and moves off in an almost random direction, with a slightly higher probability of returning in the direction it came from (though I assume uniform reorientation for simplicity). Bacteria spend significantly more time trapped than hopping. Therefore, estimation of their diffusivity through porous media can be obtained from the average hop length ⟨ℓ⟩ and trapped time ⟨τ⟩, rather than the hop time as in homogeneous "run-and-tumble" motion.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
@@ -93,7 +93,7 @@ weight: 10
     <img src="diffusivities_simulations.jpeg" alt="Simulated diffusivities at each pore size" style="width: 100%; height: auto;">
     <div style="text-align: center; margin-top: 10px;">
       {{< typography font="Roboto Serif" size="18px" weight="100">}}
-        <strong>(a)</strong> Simulated diffusivities for bacteria in porous media with pore sizes of 3.6 µm, 2.5 µm, and 1.9 µm, averaged over 100,000 10-minute KMC simulations. Error bars represent standard deviation.
+        <strong>(a)</strong> Simulated diffusivities for bacteria in porous media with pore sizes of 3.6 µm, 2.5 µm, and 1.9 µm, averaged over 100,000 10-minute KMC simulations.
       {{< /typography >}}
     </div>
   </div>
@@ -101,7 +101,7 @@ weight: 10
     <img src="diffusivities_linefit.jpeg" alt="Comparison of simulated vs experimental diffusivities" style="width: 100%; height: auto;">
     <div style="text-align: center; margin-top: 10px;">
       {{< typography font="Roboto Serif" size="18px" weight="100">}}
-        <strong>(b)</strong> Comparison of my mean simulated diffusivities to experimentally measured diffusivities from Bhattacharjee & Datta (2019). The linear fit demonstrates strong agreement between simulation and experiment across different pore sizes.
+        <strong>(b)</strong> Comparison of my mean simulated diffusivities to experimentally measured diffusivities from Bhattacharjee & Datta (2019). The linear fit (slope = 0.88) demonstrates fair agreement within the error bounds of the experiments across different pore sizes.
       {{< /typography >}}
     </div>
   </div>
