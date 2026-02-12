@@ -1,26 +1,43 @@
 ---
-widget: blank
-headless: true
+widget: pages
+headless: false  # This file represents a page section.
 
+# ... Put Your Section Options Here (title etc.) ...
 title:
 subtitle:
-design:
-  columns: '1'
 
+# Position of this section on the page
 weight: 100
-
+content:
+  # Filter content to display
+  filters:
+    # The folders to display content from
+    folders:
+      - bacteria_references
+    tag: ''
+    categories:
+      - 'bacteria-porous-media'
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: true
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
+  offset: 0
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
+design:
+  # Choose a listing view
+  view: citation
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 ---
-
-<br>
-
 <center>
 {{< typography font="Roboto Serif" size="30px" weight="bold">}}
   References
 {{< /typography >}}
 </center>
-
-<br>
-
-{{< typography font="Roboto Serif" size="20px" weight="100">}}
-[Bhattacharjee & Datta, 2019] Tapomoy Bhattacharjee and Sujit S. Datta. Bacterial hopping and trapping in porous media. *Nature Communications*, **10**, 2075 (2019). DOI: 10.1038/s41467-019-10115-1
-{{< /typography >}}
