@@ -130,7 +130,7 @@ For visual demonstrations of bacterial hopping and trapping in porous media, see
 </center>
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  For more details, please see my <a href='/uploads/KMC_Bacteria_Hopping_And_Trapping.pdf'>project notes</a> or visit the <a href='https://github.com/cdalas2/KMC_Diffusion_In_Inhomogenous_Media_Projects'>GitHub repository</a> for the full implementation.
+  For more details, please see my <a href='KMC_Bacteria_Hopping_And_Trapping.pdf'>project notes</a> or visit the <a href='https://github.com/cdalas2/KMC_Diffusion_In_Inhomogenous_Media_Projects'>GitHub repository</a> for the full implementation.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="20px" weight="100" style="font-style: italic;">}}
