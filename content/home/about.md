@@ -44,7 +44,7 @@ video_column_title: 'Youtube API'
 # recent_title: 'Recent Activity'
 content:
   slides:
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Self-assembly of emerin nanodomains](/research/self-assembly-of-emerin-nanodomains)</b></p>'
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Self-assembly of emerin nanodomains](/research/self-assembly-of-emerin-nanodomains/)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">Could the morphogenesis of Emery-Dreifuss muscular dystrophy be traced back to a Turing instability perturbed by mutations in emerin?</p>'
       align: left
       background:
@@ -53,7 +53,7 @@ content:
         brightness: 1.2
         media: StochasticLatticeModel_ProteinDomains.png
         fit: contain
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Thermosensing through membrane mechanics](/research/thermosensing-through-membrane-mechanics)</b></p>'
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Thermosensing through membrane mechanics](/research/thermosensing-through-membrane-mechanics/)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">Can the alterations in membrane mechanical properties due to changing temperature be utilized by cells to sense temperature?</p>'
       align: left
       background:
@@ -62,7 +62,7 @@ content:
         brightness: 0.95
         media: thermosensing_cover.png
         fit: contain
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Protein-induced bilayer deformations](/research/protein-induced-bilayer-deformations)</b></p>'
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Protein-induced bilayer deformations](/research/protein-induced-bilayer-deformations/)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">How can protein shape impact protein-membrane interactions and the stabilization of protein conformational states?</p>'
       align: left
       background:
@@ -71,7 +71,7 @@ content:
         brightness: 1.2
         media: BilayerDeformationColorMaps.png
         fit: contain
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Swimming of microorganisms in quasi-2D membranes](/research/microorganisms-in-quasi-2d-membranes)</b></p>'
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Swimming of microorganisms in quasi-2D membranes](/research/microorganisms-in-quasi-2d-membranes/)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">How do microorganisms propagate in quasi-2D membranes?</p>'
       align: left
       background:
@@ -80,7 +80,7 @@ content:
         brightness: 0.95
         media: swimmers_in_quasi2D.png
         fit: contain
-    - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media: Kinetic Monte Carlo model](/research/bacteria-in-porous-media-simulations)</b></p>'
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Bacteria in porous media: Kinetic Monte Carlo model](/research/bacteria-in-porous-media-simulations/)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">Can a simple kinetic Monte Carlo model predict bacterial diffusion in porous media and reveal the essential physics of transport?</p>'
       align: left
       background:
