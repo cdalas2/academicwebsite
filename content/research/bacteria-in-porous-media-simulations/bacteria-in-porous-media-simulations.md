@@ -76,34 +76,23 @@ weight: 10
 {{< /typography >}}
 <br>
 
-<!-- PLACEHOLDER FOR DIFFUSIVITY VS ITERATIONS FIGURE -->
-<img src="diffusivity_iterations.png" alt="Average simulated diffusivity as a function of KMC iterations">
-
-{{< typography font="Roboto Serif:wght@100" size="0px">}}
-{{< /typography >}}
-> {{< typography font="Roboto Serif" size="18px" weight="100">}}
-    Average simulated diffusivity as a function of KMC iterations for different pore size distributions. Due to increased pore confinement effects, bacteria diffuse more slowly in media with smaller pore sizes.
-  {{< /typography >}}
-
-<br>
-
 <!-- Side-by-side diffusivity plots -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px; max-width: 48%;">
     <img src="diffusivities_simulations.jpeg" alt="Simulated diffusivities at each pore size" style="width: 100%; height: auto;">
-    <div style="text-align: center; margin-top: 10px;">
-      {{< typography font="Roboto Serif" size="18px" weight="100">}}
+    {{< typography font="Roboto Serif:wght@100" size="0px">}}
+    {{< /typography >}}
+    > {{< typography font="Roboto Serif" size="18px" weight="100">}}
         <strong>(a)</strong> Simulated diffusivities for bacteria in porous media with pore sizes of 3.6 µm, 2.5 µm, and 1.9 µm, averaged over 100,000 10-minute KMC simulations.
       {{< /typography >}}
-    </div>
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 48%;">
     <img src="diffusivities_linefit.jpeg" alt="Comparison of simulated vs experimental diffusivities" style="width: 100%; height: auto;">
-    <div style="text-align: center; margin-top: 10px;">
-      {{< typography font="Roboto Serif" size="18px" weight="100">}}
+    {{< typography font="Roboto Serif:wght@100" size="0px">}}
+    {{< /typography >}}
+    > {{< typography font="Roboto Serif" size="18px" weight="100">}}
         <strong>(b)</strong> Comparison of my mean simulated diffusivities to experimentally measured diffusivities from Bhattacharjee & Datta (2019). The linear fit (slope = 0.88) demonstrates fair agreement within the error bounds of the experiments across different pore sizes.
       {{< /typography >}}
-    </div>
   </div>
 </div>
 
