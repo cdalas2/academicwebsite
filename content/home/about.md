@@ -84,11 +84,11 @@ content:
       content: '<p style = "font-size: 16px; color: white;">Can a simple kinetic Monte Carlo model predict bacterial diffusion in porous media and reveal the essential physics of transport?</p>'
       align: left
       background:
-        position: top
+        position: center
         color: '#333'
         brightness: 1.2
         media: bacteria_porous_media.png
-        fit: contain
+        fit: cover
 #    - title: '<br><br><br><br><br><p style = "font-size: 20px">Stochastic lattice model for emerin nanodomains</p>'
 #      content: '<p style = "font-size: 12px">Can we use a stochastic lattice model to study how defective emerin organization and self-assembly can produce muscle degenerative diseases?</p>'
 #      align: center
