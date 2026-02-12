@@ -33,7 +33,7 @@ weight: 10
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
 > {{< typography font="Roboto Serif" size="18px" weight="100">}}
-    We compare our simulated diffusivities, averaged over 100,000 10-minute simulations of bacteria hopping and trapping in porous media, to experimentally measured diffusivities [Bhattacharjee & Datta, 2019].
+    We compare our simulated diffusivities, averaged over 100,000 10-minute simulations of bacteria hopping and trapping in porous media, to experimentally measured diffusivities <a href='https://doi.org/10.1038/s41467-019-10115-1'>[Bhattacharjee & Datta, 2019]</a>.
   {{< /typography >}}
 
 <br>
@@ -42,11 +42,11 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  However, in porous media, flagellated bacteria employ a different two-state motion called "hopping-and-trapping" [Bhattacharjee & Datta, 2019]. The bacterium swims or "hops" in a straight direction until it becomes stuck or "trapped" due to confinement by neighboring pores. While trapped, the bacterium reorients and moves off in an almost random direction, with a slightly higher probability of returning in the direction it came from (though we assume uniform reorientation for simplicity). Bacteria spend significantly more time trapped than hopping. Therefore, estimation of their diffusivity through porous media can be obtained from the average hop length ⟨ℓ⟩ and trapped time ⟨τ⟩, rather than the hop time as in homogeneous "run-and-tumble" motion.
+  However, in porous media, flagellated bacteria employ a different two-state motion called "hopping-and-trapping" <a href='https://doi.org/10.1038/s41467-019-10115-1'>[Bhattacharjee & Datta, 2019]</a>. The bacterium swims or "hops" in a straight direction until it becomes stuck or "trapped" due to confinement by neighboring pores. While trapped, the bacterium reorients and moves off in an almost random direction, with a slightly higher probability of returning in the direction it came from (though we assume uniform reorientation for simplicity). Bacteria spend significantly more time trapped than hopping. Therefore, estimation of their diffusivity through porous media can be obtained from the average hop length ⟨ℓ⟩ and trapped time ⟨τ⟩, rather than the hop time as in homogeneous "run-and-tumble" motion.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  The motion of flagellated bacteria through porous media was observed and measured in porous distributions with characteristic pore sizes of (a) 3.6 µm, (b) 2.5 µm, and (c) 1.9 µm [Bhattacharjee & Datta, 2019]. It was observed that smaller pore sizes increased the effects of pore confinement - in smaller pore size distributions, bacteria experience more trapping and less hopping. The experimenters measured the velocity distributions of bacteria and set the threshold between hopping and trapping states at half the measured run velocity in a homogeneous domain (14 µm/s). They found that varying this threshold between 8 and 20 µm/s had little effect on their results.
+  The motion of flagellated bacteria through porous media was observed and measured in porous distributions with characteristic pore sizes of (a) 3.6 µm, (b) 2.5 µm, and (c) 1.9 µm <a href='https://doi.org/10.1038/s41467-019-10115-1'>[Bhattacharjee & Datta, 2019]</a>. It was observed that smaller pore sizes increased the effects of pore confinement - in smaller pore size distributions, bacteria experience more trapping and less hopping. The experimenters measured the velocity distributions of bacteria and set the threshold between hopping and trapping states at half the measured run velocity in a homogeneous domain (14 µm/s). They found that varying this threshold between 8 and 20 µm/s had little effect on their results.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
@@ -95,7 +95,7 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  Comparing our simulated diffusivities to the experimentally measured values [Bhattacharjee & Datta, 2019], we found that our simulations yielded diffusivities approximately (0.88 ± 0.14) times the measured values - about 14% higher on average. This is quite good considering that hop times and detailed reorientation direction distributions were ignored in our model. The measured diffusivities were reported to the nearest 0.5 µm²/s, so our simulated values for pore sizes 1.9 µm and 2.5 µm agree quite well within this level of experimental precision. Our simulated diffusivity for 3.6 µm pores is closer to 2.5 µm²/s than the reported measured value of approximately 2.0 µm²/s, which we attribute to bacteria spending less time trapped and more time hopping in larger pores.
+  Comparing our simulated diffusivities to the experimentally measured values <a href='https://doi.org/10.1038/s41467-019-10115-1'>[Bhattacharjee & Datta, 2019]</a>, we found that our simulations yielded diffusivities approximately (0.88 ± 0.14) times the measured values - about 14% higher on average. This is quite good considering that hop times and detailed reorientation direction distributions were ignored in our model. The measured diffusivities were reported to the nearest 0.5 µm²/s, so our simulated values for pore sizes 1.9 µm and 2.5 µm agree quite well within this level of experimental precision. Our simulated diffusivity for 3.6 µm pores is closer to 2.5 µm²/s than the reported measured value of approximately 2.0 µm²/s, which we attribute to bacteria spending less time trapped and more time hopping in larger pores.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}

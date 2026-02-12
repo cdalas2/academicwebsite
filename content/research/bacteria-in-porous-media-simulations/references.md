@@ -22,7 +22,7 @@ weight: 100
 <br>
 
 {{< typography font="Roboto Serif" size="20px" weight="100">}}
-[Bhattacharjee & Datta, 2019] Tapomoy Bhattacharjee and Sujit S. Datta. Bacterial hopping and trapping in porous media. *Nature Communications*, **10**, 2075 (2019). DOI: 10.1038/s41467-019-10115-1
+[Bhattacharjee & Datta, 2019] Tapomoy Bhattacharjee and Sujit S. Datta. <a href='https://doi.org/10.1038/s41467-019-10115-1'>Bacterial hopping and trapping in porous media</a>. *Nature Communications*, **10**, 2075 (2019).
 {{< /typography >}}
 
 <br>
