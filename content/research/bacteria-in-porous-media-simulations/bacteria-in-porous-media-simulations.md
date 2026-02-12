@@ -33,7 +33,7 @@ weight: 10
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
 > {{< typography font="Roboto Serif" size="18px" weight="100">}}
-    We compare our simulated diffusivities, averaged over 100,000 10-minute simulations of bacteria hopping and trapping in porous media, to experimentally measured diffusivities [Bhattacharjee & Datta, 2019].
+    I compare my simulated diffusivities, averaged over 100,000 10-minute simulations of bacteria hopping and trapping in porous media, to experimentally measured diffusivities [Bhattacharjee & Datta, 2019].
   {{< /typography >}}
 
 <br>
@@ -60,7 +60,7 @@ weight: 10
 </center>
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  From their predicted diffusivities of (a) 7 µm²/s, (b) 3 µm²/s, and (c) 2 µm²/s, and the relation above, we can estimate the mean trapped times ⟨τ⟩ as approximately (a) 0.5 s, (b) 0.86 s, and (c) 0.76 s.
+  From their predicted diffusivities of (a) 7 µm²/s, (b) 3 µm²/s, and (c) 2 µm²/s, and the relation above, I estimated the mean trapped times ⟨τ⟩ as approximately (a) 0.5 s, (b) 0.86 s, and (c) 0.76 s.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="26px">}}
@@ -68,11 +68,11 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  We developed a subvolume kinetic Monte Carlo (KMC) method that samples distributed hop lengths and trapped times from Poisson distributions. This method is an adaptation of the standard subvolume KMC approach, allowing for sampling of hop length ℓ distributions. Similar to conventional subvolume KMC, we sample the time spent in a lattice cell before hopping to another state (the trapped time τ), then sample a reorientation direction and hop length.
+  I developed a subvolume kinetic Monte Carlo (KMC) method that samples distributed hop lengths and trapped times from Poisson distributions. This method is an adaptation of the standard subvolume KMC approach, allowing for sampling of hop length ℓ distributions. Similar to conventional subvolume KMC, the method samples the time spent in a lattice cell before hopping to another state (the trapped time τ), then samples a reorientation direction and hop length.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  We applied this method to study bacterial diffusion in porous media. To simulate diffusivity, we tracked a single bacterium in our 3D lattice domain. At each iteration, the bacterium occupies a trapped state while reorienting to hop to another trapped state. We ignore hop times and only consider trapped times, as hop times are negligible compared to trapped times. At each iteration, we sample a trapped time from a Poisson distribution with mean set to half the average trapped time ⟨τ⟩/2 (we found this choice significantly improved our diffusivity predictions). We then sample a reorientation direction from a uniform distribution and sample a hop length from a Poisson distribution fitted to the mean hop length ⟨ℓ⟩.
+  I applied this method to study bacterial diffusion in porous media. To simulate diffusivity, I tracked a single bacterium in a 3D lattice domain. At each iteration, the bacterium occupies a trapped state while reorienting to hop to another trapped state. I ignore hop times and only consider trapped times, as hop times are negligible compared to trapped times. At each iteration, I sample a trapped time from a Poisson distribution with mean set to half the average trapped time ⟨τ⟩/2 (I found this choice significantly improved my diffusivity predictions). I then sample a reorientation direction from a uniform distribution and sample a hop length from a Poisson distribution fitted to the mean hop length ⟨ℓ⟩.
 {{< /typography >}}
 <br>
 
@@ -91,15 +91,15 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  We simulated the diffusion of a single bacterium in porous media with pore distributions of sizes (a) 3.6 µm, (b) 2.5 µm, and (c) 1.9 µm for 10 minutes per KMC iteration. Our results, averaged over 10⁵ iterations, yielded diffusivities of (a) 2.3 µm²/s, (b) 1.0 µm²/s, and (c) 0.67 µm²/s. These results reflect the effects of pore confinement on bacterial diffusion rates through porous media, where smaller pore size distributions result in more pore confinement and slower diffusion.
+  I simulated the diffusion of a single bacterium in porous media with pore distributions of sizes (a) 3.6 µm, (b) 2.5 µm, and (c) 1.9 µm for 10 minutes per KMC iteration. My results, averaged over 10⁵ iterations, yielded diffusivities of (a) 2.3 µm²/s, (b) 1.0 µm²/s, and (c) 0.67 µm²/s. These results reflect the effects of pore confinement on bacterial diffusion rates through porous media, where smaller pore size distributions result in more pore confinement and slower diffusion.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  Comparing our simulated diffusivities to the experimentally measured values [Bhattacharjee & Datta, 2019], we found that our simulations yielded diffusivities approximately (0.88 ± 0.14) times the measured values - about 14% higher on average. This is quite good considering that hop times and detailed reorientation direction distributions were ignored in our model. The measured diffusivities were reported to the nearest 0.5 µm²/s, so our simulated values for pore sizes 1.9 µm and 2.5 µm agree quite well within this level of experimental precision. Our simulated diffusivity for 3.6 µm pores is closer to 2.5 µm²/s than the reported measured value of approximately 2.0 µm²/s, which we attribute to bacteria spending less time trapped and more time hopping in larger pores.
+  Comparing my simulated diffusivities to the experimentally measured values [Bhattacharjee & Datta, 2019], I found that my simulations yielded diffusivities approximately (0.88 ± 0.14) times the measured values - about 14% higher on average. This is quite good considering that hop times and detailed reorientation direction distributions were ignored in my model. The measured diffusivities were reported to the nearest 0.5 µm²/s, so my simulated values for pore sizes 1.9 µm and 2.5 µm agree quite well within this level of experimental precision. My simulated diffusivity for 3.6 µm pores is closer to 2.5 µm²/s than the reported measured value of approximately 2.0 µm²/s, which I attribute to bacteria spending less time trapped and more time hopping in larger pores.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  Since our model assumes hopping time to be negligible, we always underestimate the total transition times and therefore our simulated values systematically overestimate the measured diffusivities. Despite this limitation, the agreement between simulation and experiment demonstrates that our subvolume KMC approach effectively captures the essential physics of bacterial transport in porous media.
+  Since my model assumes hopping time to be negligible, I always underestimate the total transition times and therefore my simulated values systematically overestimate the measured diffusivities. Despite this limitation, the agreement between simulation and experiment demonstrates that this subvolume KMC approach effectively captures the essential physics of bacterial transport in porous media.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="26px">}}
@@ -119,5 +119,9 @@ For visual demonstrations of bacterial hopping and trapping in porous media, see
 </center>
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  For more details, please see our <a href='/uploads/KMC_Bacteria_Hopping_And_Trapping.pdf'>project notes</a> or visit the <a href='https://github.com/cdalas2/KMC_Diffusion_In_Inhomogenous_Media_Projects'>GitHub repository</a> for the full implementation.
+  For more details, please see my <a href='/uploads/KMC_Bacteria_Hopping_And_Trapping.pdf'>project notes</a> or visit the <a href='https://github.com/cdalas2/KMC_Diffusion_In_Inhomogenous_Media_Projects'>GitHub repository</a> for the full implementation.
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="20px" weight="100" style="font-style: italic;">}}
+  Note: I did not work with the Datta Lab on this project. I developed this kinetic Monte Carlo model independently and find their experimental work on bacterial hopping and trapping in porous media particularly interesting as a basis for validating computational approaches.
 {{< /typography >}}
