@@ -102,6 +102,22 @@ weight: 10
   Since our model assumes hopping time to be negligible, we always underestimate the total transition times and therefore our simulated values systematically overestimate the measured diffusivities. Despite this limitation, the agreement between simulation and experiment demonstrates that our subvolume KMC approach effectively captures the essential physics of bacterial transport in porous media.
 {{< /typography >}}
 <br>
+{{< typography font="Roboto Serif" size="26px">}}
+  Videos
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+For visual demonstrations of bacterial hopping and trapping in porous media, see these videos from the Datta Lab:
+{{< /typography >}}
+<br>
+<center>
+{{< youtube JaxT-rZpte0 >}}
+</center>
+<br>
+<center>
+{{< youtube pjoojqw877A >}}
+</center>
+<br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
   For more details, please see our <a href='/uploads/KMC_Bacteria_Hopping_And_Trapping.pdf'>project notes</a> or visit the <a href='https://github.com/cdalas2/KMC_Diffusion_In_Inhomogenous_Media_Projects'>GitHub repository</a> for the full implementation.
 {{< /typography >}}
