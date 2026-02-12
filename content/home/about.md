@@ -87,7 +87,7 @@ content:
         position: center
         color: '#333'
         brightness: 1.2
-        media: bacteria_porous_media.png
+        media: bacteria_porous_media.jpeg
         fit: cover
 #    - title: '<br><br><br><br><br><p style = "font-size: 20px">Stochastic lattice model for emerin nanodomains</p>'
 #      content: '<p style = "font-size: 12px">Can we use a stochastic lattice model to study how defective emerin organization and self-assembly can produce muscle degenerative diseases?</p>'
