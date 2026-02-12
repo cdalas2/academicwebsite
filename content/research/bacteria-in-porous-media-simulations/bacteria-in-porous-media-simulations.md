@@ -33,7 +33,7 @@ weight: 10
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
 > {{< typography font="Roboto Serif" size="18px" weight="100">}}
-    I compare my simulated diffusivities, averaged over 100,000 10-minute simulations of bacteria hopping and trapping in porous media, to experimentally measured diffusivities [Bhattacharjee & Datta, 2019].
+    Cartoon diagram visualizing the hopping and trapping motion of bacteria in porous media. Bacteria swim or "hop" in straight trajectories until they become "trapped" by pore confinement, where they reorient before hopping again in a new direction.
   {{< /typography >}}
 
 <br>
