@@ -28,6 +28,11 @@ weight: 10
 </center>
 <br>
 
+{{< typography font="Roboto Serif" size="18px">}}
+[&#8592; Back to Telematics](/data-science/telematics/)
+{{< /typography >}}
+<br>
+
 {{< typography font="Roboto Serif" size="24px" weight="bold">}}
 Thirty Years Behind the Wheel: How Telematics Grew from a Cadillac Gimmick into the Force Reshaping Auto Insurance
 {{< /typography >}}
