@@ -39,5 +39,5 @@ Table of Contents
 <br>
 
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-1. [Industry History](/data-science/telematics/history/) — Thirty years behind the wheel: how telematics grew from a Cadillac gimmick into the force reshaping auto insurance.
+1. <a href="/data-science/telematics/history/">Industry History</a> — Thirty years behind the wheel: how telematics grew from a Cadillac gimmick into the force reshaping auto insurance.
 {{< /typography >}}
