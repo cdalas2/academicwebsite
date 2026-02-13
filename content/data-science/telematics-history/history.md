@@ -29,7 +29,7 @@ weight: 10
 <br>
 
 {{< typography font="Roboto Serif" size="18px">}}
-[&#8592; Back to Telematics](/data-science/telematics/)
+<a href="/data-science/telematics/">&larr; Back to Telematics</a>
 {{< /typography >}}
 <br>
 
@@ -368,4 +368,9 @@ But the underlying idea is simple and, at its core, deeply fair: if you drive sa
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
 The lawsuits of 2024 and 2025 were painful, but they may prove to be the best thing that ever happened to telematics. They drew a bright line between empowerment and exploitation. They forced regulators to demand data minimization, transparency, and genuine consent. And they gave the industry a roadmap: respect the driver, earn their trust, use only what you need, and protect everything you collect. Do that, and telematics fulfills its original promise — not as a surveillance tool, but as the mechanism that finally lets your driving speak for itself.
+{{< /typography >}}
+<br>
+
+{{< typography font="Roboto Serif" size="18px">}}
+<a href="/data-science/telematics/">&larr; Back to Telematics</a>
 {{< /typography >}}
