@@ -72,7 +72,7 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  I applied this method to study bacterial diffusion in porous media. To simulate diffusivity, I tracked a single bacterium in a 3D lattice domain. At each iteration, the bacterium occupies a trapped state while reorienting to hop to another trapped state. I ignore hop times and only consider trapped times, as hop times are negligible compared to trapped times. At each iteration, I sample a trapped time from a Poisson distribution with mean set to half the average trapped time ⟨τ⟩/2 (I found this choice significantly improved my diffusivity predictions). I then sample a reorientation direction from a uniform distribution and sample a hop length from a Poisson distribution fitted to the mean hop length ⟨ℓ⟩.
+  I applied this method to study bacterial diffusion in porous media. To simulate diffusivity, I tracked a single bacterium in a 3D lattice domain. At each iteration, the bacterium occupies a trapped state while reorienting to hop to another trapped state. I ignore hop times and only consider trapped times, as hop times are negligible compared to trapped times. At each iteration, I sample a trapped time from a Poisson distribution with mean equal to the average trapped time ⟨τ⟩. I then sample a reorientation direction from a uniform distribution and sample a hop length from a Poisson distribution fitted to the mean hop length ⟨ℓ⟩.
 {{< /typography >}}
 <br>
 
