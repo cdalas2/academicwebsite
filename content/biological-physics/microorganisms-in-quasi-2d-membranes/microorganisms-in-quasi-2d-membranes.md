@@ -22,7 +22,7 @@ weight: 10
 ---
 <center>
 {{< typography font="Roboto Serif" size="30px" weight="bold">}}
-  Research
+  Biological Physics
 {{< /typography >}}
 </center>
 <br>
