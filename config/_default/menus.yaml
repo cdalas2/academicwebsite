@@ -12,23 +12,23 @@ main:
     weight: 10
   - name: Self-assembly of emerin nanodomains
     parent: research
-    url: /research/self-assembly-of-emerin-nanodomains/
+    url: /biological-physics/self-assembly-of-emerin-nanodomains/
     weight: 10
   - name: Thermosensing through membrane mechanics
     parent: research
-    url: /research/thermosensing-through-membrane-mechanics/
+    url: /biological-physics/thermosensing-through-membrane-mechanics/
     weight: 20
   - name: Protein-induced bilayer deformations
     parent: research
-    url: /research/protein-induced-bilayer-deformations/
+    url: /biological-physics/protein-induced-bilayer-deformations/
     weight: 30
   - name: Microorganisms in quasi-2D membranes
     parent: research
-    url: /research/microorganisms-in-quasi-2d-membranes/
+    url: /biological-physics/microorganisms-in-quasi-2d-membranes/
     weight: 40
   - name: 'Bacteria in porous media: KMC model'
     parent: research
-    url: /research/bacteria-in-porous-media-simulations/
+    url: /biological-physics/bacteria-in-porous-media-simulations/
     weight: 50
   - name: Data Science
     identifier: data-science
