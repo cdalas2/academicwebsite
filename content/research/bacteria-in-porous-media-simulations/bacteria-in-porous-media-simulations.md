@@ -46,7 +46,7 @@ weight: 10
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-  The motion of flagellated bacteria through porous media was observed and measured in porous distributions with characteristic pore sizes of (a) 3.6 µm, (b) 2.5 µm, and (c) 1.9 µm [Bhattacharjee & Datta, 2019]. It was observed that smaller pore sizes increased the effects of pore confinement - in smaller pore size distributions, bacteria experience more trapping and less hopping. The experimenters measured the velocity distributions of bacteria and set the threshold between hopping and trapping states at half the measured run velocity in a homogeneous domain (14 µm/s). They found that varying this threshold between 8 and 20 µm/s had little effect on their results.
+  The motion of flagellated bacteria through porous media was observed and measured in porous distributions with characteristic pore sizes of (a) 3.6 µm, (b) 2.5 µm, and (c) 1.9 µm [Bhattacharjee & Datta, 2019]. It was observed that smaller pore sizes increased the effects of pore confinement - in smaller pore size distributions, bacteria experience more trapping and less hopping.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
