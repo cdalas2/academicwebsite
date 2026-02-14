@@ -28,6 +28,8 @@ weight: 10
 </center>
 <br>
 
+{{< typography font="Roboto Serif:wght@100" size="0px">}}
+{{< /typography >}}
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
 This is where I will provide an overview of telematics and my work.
 {{< /typography >}}

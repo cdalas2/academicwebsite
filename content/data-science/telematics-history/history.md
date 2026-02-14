@@ -28,6 +28,8 @@ weight: 10
 </center>
 <br>
 
+{{< typography font="Roboto Serif:wght@100" size="0px">}}
+{{< /typography >}}
 {{< typography font="Roboto Serif" size="18px">}}
 <a href="/data-science/telematics/">&larr; Back to Telematics</a>
 {{< /typography >}}
