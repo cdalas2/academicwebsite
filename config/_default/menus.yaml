@@ -36,11 +36,6 @@ main:
   - name: Telematics
     parent: data-science
     url: /data-science/telematics/
-    identifier: telematics
-    weight: 10
-  - name: Industry History
-    parent: telematics
-    url: /data-science/telematics/history/
     weight: 10
   - name: Publications
     url: '/publications/'

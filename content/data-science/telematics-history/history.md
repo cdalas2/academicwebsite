@@ -22,7 +22,7 @@ weight: 10
 </center>
 <br>
 <center>
-{{< typography font="Roboto Serif" size="26px" weight="100">}}
+{{< typography font="Roboto Serif" size="26px">}}
   Telematics
 {{< /typography >}}
 </center>

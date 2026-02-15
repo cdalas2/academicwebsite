@@ -22,27 +22,24 @@ weight: 10
 </center>
 <br>
 <center>
-{{< typography font="Roboto Serif" size="26px" weight="100">}}
+{{< typography font="Roboto Serif" size="26px">}}
   Telematics
 {{< /typography >}}
 </center>
 <br>
 
-{{< typography font="Roboto Serif" size="20px" weight="100">}}
-Telematics — the fusion of telecommunications and vehicle monitoring — has evolved over three decades from a Cadillac emergency-button gimmick into a data infrastructure that now sits at the center of the auto insurance industry. The pages in this section trace that evolution and examine the data science behind it.
+{{< typography font="Roboto Serif:wght@100" size="0px">}}
+{{< /typography >}}
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+This is where I will provide an overview of telematics and my work.
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="24px" weight="100">}}
-Contents
+{{< typography font="Roboto Serif" size="24px" weight="bold">}}
+Table of Contents
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="20px" weight="100">}}
-[**Industry History**](/data-science/telematics/history/) &nbsp;·&nbsp; *Long Read*
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+1. <a href="/data-science/telematics/history/">Industry History</a> — Thirty years behind the wheel: how telematics grew from a Cadillac gimmick into the force reshaping auto insurance.
 {{< /typography >}}
-
-{{< typography font="Roboto Serif" size="18px" weight="100">}}
-Thirty years behind the wheel — how telematics grew from a Cadillac gimmick into the force reshaping auto insurance. Covers the GPS origins, OBD-II port, OnStar launch, usage-based insurance programs, and the ongoing privacy reckoning.
-{{< /typography >}}
-<br>
