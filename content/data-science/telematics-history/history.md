@@ -22,7 +22,7 @@ weight: 10
 </center>
 <br>
 <center>
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
   Telematics
 {{< /typography >}}
 </center>
@@ -57,7 +57,7 @@ They were right, though not in the way anyone imagined. OnStar didn't just chang
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT I: THE SATELLITES
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -81,7 +81,7 @@ But the Pentagon hedged. The military implemented "Selective Availability," inte
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT II: THE PORT
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -105,7 +105,7 @@ Here's what the regulators didn't anticipate: the OBD-II port was essentially a 
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT III: THE MACHINES
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -139,7 +139,7 @@ Today, Motorq estimates that 96% of vehicles manufactured in the U.S. ship with 
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT IV: THE ACTUARIES
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -159,7 +159,7 @@ The results are striking. According to survey data, 66% of drivers who use telem
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="24px">}}
+{{< typography font="Roboto Serif" size="24px" weight="100">}}
 Two Philosophies, Two Markets
 {{< /typography >}}
 <br>
@@ -184,7 +184,7 @@ That last point matters. Telematics doesn't just re-sort the existing risk pool 
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="24px">}}
+{{< typography font="Roboto Serif" size="24px" weight="100">}}
 Meanwhile, in the Journals
 {{< /typography >}}
 <br>
@@ -205,7 +205,7 @@ The industry and the academy, working from different incentives and different da
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT V: THE SHAKEOUT
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -245,7 +245,7 @@ Among insurers, Progressive remains the market leader, with Snapshot available i
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT VI: THE DATA DIVIDE
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -273,7 +273,7 @@ The industry is converging toward a hybrid model. Platforms like LexisNexis's Te
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 ACT VII: THE RECKONING
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
@@ -301,7 +301,7 @@ GM discontinued the Smart Driver program in April 2024, unenrolled all participa
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="24px">}}
+{{< typography font="Roboto Serif" size="24px" weight="100">}}
 The Line Between Empowerment and Exploitation
 {{< /typography >}}
 <br>
@@ -322,7 +322,7 @@ This matters because the cross-subsidy problem doesn't go away when drivers opt 
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="24px">}}
+{{< typography font="Roboto Serif" size="24px" weight="100">}}
 Two Possible Futures
 {{< /typography >}}
 <br>
@@ -343,7 +343,7 @@ The emerging regulatory framework — the FTC's consent order against GM, the Te
 {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="26px">}}
+{{< typography font="Roboto Serif" size="26px" weight="100">}}
 EPILOGUE
 {{< /typography >}}
 {{< typography font="Roboto Serif" size="24px" weight="100" style="italic">}}
