@@ -24,7 +24,3 @@ design:
   References
 {{< /typography >}}
 </center>
-<br>
-{{< typography font="Roboto Serif" size="18px">}}
-<a href="/data-science/telematics/">&larr; Back to Telematics</a>
-{{< /typography >}}
