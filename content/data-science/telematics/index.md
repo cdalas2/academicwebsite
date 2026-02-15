@@ -1,12 +1,12 @@
 ---
 type: widget_page
-title: 'Data Science: Telematics'
-summary: 'Overview of telematics research and applications in data science.'
+title: 'Telematics'
+summary: 'Data science applied to telematics — how vehicle tracking technology is reshaping auto insurance and transportation policy.'
 date: "2026-02-13T00:00:00Z"
 
 reading_time: false
 share: true
-profile: true
+profile: false
 comments: false
 
 ---
