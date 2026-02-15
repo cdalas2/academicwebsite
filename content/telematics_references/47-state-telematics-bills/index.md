@@ -1,12 +1,12 @@
 ---
-title: "The History of Embedded OEM Telematics"
+title: "State-Level Telematics and Privacy Legislation in New York, Tennessee, New Jersey, and California"
 subtitle: ''
 summary: ''
 authors:
-- Motorq
+- Various State Legislatures
 tags: []
 categories: [telematics-history]
-date: '2000-01-15'
+date: '2000-02-16'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2000-01-15T00:00:00Z'
+publishDate: '2000-02-16T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Motorq* (2023)'
+publication: '*State Legislatures* (2024–2025)'
 doi: ''
-links:
-- name: URL
-  url: https://motorq.com/blog-news/history-oem-telematics
+links: []
 ---

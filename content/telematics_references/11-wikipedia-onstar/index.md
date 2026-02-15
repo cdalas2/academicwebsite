@@ -6,7 +6,7 @@ authors:
 - Wikipedia
 tags: []
 categories: [telematics-history]
-date: '2024-01-01'
+date: '2000-01-11'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,11 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2000-01-11T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Wikipedia*'
+publication: '*Wikipedia* (2024)'
 doi: ''
 links:
 - name: URL

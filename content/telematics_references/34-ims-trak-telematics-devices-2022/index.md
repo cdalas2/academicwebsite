@@ -1,12 +1,12 @@
 ---
-title: "Top 5 Best Telematics Device Options"
+title: "Senator Edward Markey Letter to FTC Urging Investigation of Automakers' Privacy Practices"
 subtitle: ''
 summary: ''
 authors:
-- IMS / Trak Global
+- Senator Edward Markey
 tags: []
 categories: [telematics-history]
-date: '2022-12-01'
+date: '2000-02-10'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,13 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2022-12-01T00:00:00Z'
+publishDate: '2000-02-10T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*IMS / Trak Global* (December 2022)'
+publication: '*U.S. Senate* (February 2024)'
 doi: ''
 links:
 - name: URL
-  url: https://www.trakglobal.com/blog/top-5-best-telematics-device-options/
+  url: https://www.reedsmith.com/articles/ftc-drives-crackdown-on-connected-cars-data-privacy-risk/
 ---

@@ -6,7 +6,7 @@ authors:
 - LexisNexis Risk Solutions
 tags: []
 categories: [telematics-history]
-date: '2024-01-01'
+date: '2000-01-30'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,11 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2000-01-30T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*LexisNexis Risk Solutions*'
+publication: '*LexisNexis Risk Solutions* (2024)'
 doi: ''
 links:
 - name: URL

@@ -1,12 +1,12 @@
 ---
-title: "Bumps in the Telematics Road: Privacy and Transparency"
+title: "Many Drivers Skip Auto Insurance Tracking Apps Over Privacy"
 subtitle: ''
 summary: ''
 authors:
-- Actuarial Review (Casualty Actuarial Society)
+- AutoInsurance.com
 tags: []
 categories: [telematics-history]
-date: '2024-11-01'
+date: '2000-02-15'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,13 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2024-11-01T00:00:00Z'
+publishDate: '2000-02-15T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Actuarial Review* (CAS, November 2024)'
+publication: '*AutoInsurance.com* (October 2025)'
 doi: ''
 links:
 - name: URL
-  url: https://ar.casact.org/bumps-in-the-telematics-road-privacy-and-transparency/
+  url: https://www.autoinsurance.com/research/telematics-usage-study/
 ---

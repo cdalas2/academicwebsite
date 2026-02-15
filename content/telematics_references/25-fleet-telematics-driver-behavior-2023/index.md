@@ -1,12 +1,14 @@
 ---
-title: "Driver Behavior Indices from Large-Scale Fleet Telematics Data"
+title: "Driver behavior indices from large-scale fleet telematics data as surrogate safety measures"
 subtitle: ''
 summary: ''
 authors:
-- E. Papadimitriou, G. Yannis, et al.
+- Alrassy, Patrick
+- Smyth, Andrew W.
+- Jang, Jinwoo
 tags: []
 categories: [telematics-history]
-date: '2023-01-01'
+date: '2000-01-25'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +17,13 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2000-01-25T00:00:00Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*ResearchGate / Transportation Research Record* (2023)'
+publication: '*Accident Analysis & Prevention* **178**, 106838 (2023)'
 doi: ''
 links:
 - name: URL
-  url: https://www.researchgate.net/publication/driver-behavior-indices-fleet-telematics
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0001457522003141
 ---

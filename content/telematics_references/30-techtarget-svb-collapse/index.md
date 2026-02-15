@@ -1,12 +1,12 @@
 ---
-title: "Silicon Valley Bank Collapse Explained"
+title: "Silicon Valley Bank Collapse Explained: What You Need to Know"
 subtitle: ''
 summary: ''
 authors:
 - TechTarget
 tags: []
 categories: [telematics-history]
-date: '2023-03-10'
+date: '2000-01-29'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,7 +15,7 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2023-03-10T00:00:00Z'
+publishDate: '2000-01-29T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''

@@ -1,12 +1,12 @@
 ---
-title: "Influence of Insights into Travel Behaviour Dynamics on Driving Style and Road Safety"
+title: "Texas Attorney General Lawsuit Against Allstate and Arity Regarding App-Based Data Collection and Tracking Software"
 subtitle: ''
 summary: ''
 authors:
-- D. I. Tselentis, G. Yannis, and E. I. Vlahogianni
+- Texas Attorney General Ken Paxton
 tags: []
 categories: [telematics-history]
-date: '2017-01-01'
+date: '2000-02-07'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2000-02-07T00:00:00Z'
 publication_types:
-- '2'
+- '0'
 abstract: ''
-publication: '*Transportation Research Part F: Traffic Psychology and Behaviour* **35**, 127–140 (2017)'
-doi: '10.1016/j.trf.2015.10.007'
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.trf.2015.10.007
+publication: '*Office of the Texas Attorney General* (January 2025)'
+doi: ''
+links: []
 ---
