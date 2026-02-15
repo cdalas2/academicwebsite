@@ -1,12 +1,12 @@
 ---
-title: "Why General Motors Dropped Its OnStar Smart Driver Program"
+title: "Enforcement Case Against Honda for CCPA Violations (Connected Vehicle Data)"
 subtitle: ''
 summary: ''
 authors:
-- Capital One Auto Navigator
+- California Privacy Protection Agency
 tags: []
 categories: [telematics-history]
-date: '2024-07-01'
+date: '2000-02-14'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2024-07-01T00:00:00Z'
+publishDate: '2000-02-14T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Capital One Auto Navigator* (July 2024)'
+publication: '*California Privacy Protection Agency* (2025)'
 doi: ''
-links:
-- name: URL
-  url: https://www.capitalone.com/cars/learn/managing-your-money-wisely/why-general-motors-dropped-its-onstar-smart-driver-program/1651
+links: []
 ---

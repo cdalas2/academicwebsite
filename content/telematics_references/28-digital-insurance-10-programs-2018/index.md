@@ -1,12 +1,12 @@
 ---
-title: "10 Insurance Telematics Programs to Watch"
+title: "Class-Action Against Toyota, Progressive, and Connected Analytics Services Alleging Federal Wiretapping Violations"
 subtitle: ''
 summary: ''
 authors:
-- Digital Insurance
+- Texas Attorney General Ken Paxton
 tags: []
 categories: [telematics-history]
-date: '2018-06-01'
+date: '2000-02-09'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2018-06-01T00:00:00Z'
+publishDate: '2000-02-09T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Digital Insurance* (June 2018)'
+publication: '*Office of the Texas Attorney General* (April 2025)'
 doi: ''
-links:
-- name: URL
-  url: https://www.dig-in.com/list/10-insurance-telematics-programs-to-watch
+links: []
 ---

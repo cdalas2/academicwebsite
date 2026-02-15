@@ -1,5 +1,5 @@
 ---
-title: "OnStar System Puts Telematics On The Map"
+title: "OnStar System Puts Telematics on the Map"
 subtitle: ''
 summary: ''
 authors:
@@ -19,9 +19,9 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Electronic Design*'
+publication: '*Electronic Design* (March 2003)'
 doi: ''
 links:
 - name: URL
-  url: https://www.electronicdesign.com/technologies/communications/article/21767094/onstar-system-puts-telematics-on-the-map
+  url: https://www.electronicdesign.com/technologies/communications/article/21772352/onstar-system-puts-telematics-on-the-map
 ---

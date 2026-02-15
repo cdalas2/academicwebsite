@@ -1,12 +1,12 @@
 ---
-title: "Snapshot: Rewards You for Good Driving"
+title: "Texas Attorney General Investigations into GM, Ford, Hyundai, Toyota, and Fiat Chrysler; Lawsuit Against GM Under Texas Data Privacy and Security Act"
 subtitle: ''
 summary: ''
 authors:
-- Progressive Insurance
+- Texas Attorney General Ken Paxton
 tags: []
 categories: [telematics-history]
-date: '2024-01-01'
+date: '2000-02-06'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,13 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2000-02-06T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Progressive Insurance*'
+publication: '*Office of the Texas Attorney General* (June–August 2024)'
 doi: ''
-links:
-- name: URL
-  url: https://www.progressive.com/auto/discounts/snapshot/
+links: []
 ---

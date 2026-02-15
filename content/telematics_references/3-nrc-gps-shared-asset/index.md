@@ -6,7 +6,7 @@ authors:
 - National Research Council
 tags: []
 categories: [telematics-history]
-date: '1995-01-01'
+date: '2000-01-02'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,7 +15,7 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '1995-01-01T00:00:00Z'
+publishDate: '2000-01-02T00:00:00Z'
 publication_types:
 - '5'
 abstract: ''

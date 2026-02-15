@@ -6,7 +6,7 @@ authors:
 - Automotive News
 tags: []
 categories: [telematics-history]
-date: '2008-09-14'
+date: '2000-01-12'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,11 +15,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2008-09-14T00:00:00Z'
+publishDate: '2000-01-12T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Automotive News* (2008)'
+publication: '*Automotive News* (September 2008)'
 doi: ''
 links:
 - name: URL

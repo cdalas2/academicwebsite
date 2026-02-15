@@ -6,7 +6,7 @@ authors:
 - Carrier Management
 tags: []
 categories: [telematics-history]
-date: '2023-03-01'
+date: '2000-01-18'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
@@ -15,7 +15,7 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2023-03-01T00:00:00Z'
+publishDate: '2000-01-18T00:00:00Z'
 publication_types:
 - '0'
 abstract: ''
