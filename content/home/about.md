@@ -44,6 +44,15 @@ video_column_title: 'Youtube API'
 # recent_title: 'Recent Activity'
 content:
   slides:
+    - title: '<br><br><br><p style = "font-size: 24px"><b>[Telematics](/data-science/telematics/)</b></p>'
+      content: '<p style = "font-size: 16px; color: white;">How can telematics revolutionize the way drivers are priced by insurers — and give drivers a say in how safe they really are?</p>'
+      align: left
+      background:
+        position: top
+        color: '#333'
+        brightness: 0.95
+        media: telematics_ds.jpeg
+        fit: contain
     - title: '<br><br><br><p style = "font-size: 24px"><b>[Self-assembly of emerin nanodomains](/biological-physics/self-assembly-of-emerin-nanodomains/)</b></p>'
       content: '<p style = "font-size: 16px; color: white;">Could the morphogenesis of Emery-Dreifuss muscular dystrophy be traced back to a Turing instability perturbed by mutations in emerin?</p>'
       align: left
