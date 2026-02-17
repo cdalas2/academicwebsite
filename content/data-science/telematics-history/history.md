@@ -43,7 +43,12 @@ Thirty Years Behind the Wheel: How Telematics Grew from a Cadillac Gimmick into 
 February 2026 &nbsp;·&nbsp; Long Read
 {{< /typography >}}
 <br>
+<figure>
 <img src="Technological milestones in automotive navigation.jpeg" alt="Technological milestones in automotive navigation" style="width: 100%; height: auto;">
+{{< typography font="Roboto Serif" size="15px" weight="100" style="italic">}}
+Key technological and political milestones in the development of automotive telematics — from Cold War satellite programs and federal GPS policy to OBD-II mandates, connected-car platforms, and data privacy legislation.
+{{< /typography >}}
+</figure>
 <br>
 
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
