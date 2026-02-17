@@ -43,6 +43,8 @@ Thirty Years Behind the Wheel: How Telematics Grew from a Cadillac Gimmick into 
 February 2026 &nbsp;·&nbsp; Long Read
 {{< /typography >}}
 <br>
+<img src="Technological milestones in automotive navigation.jpeg" alt="Technological milestones in automotive navigation" style="width: 100%; height: auto;">
+<br>
 
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
 In September 1996, a Cadillac rolled off a dealer lot in suburban Detroit carrying something no production car had ever contained: a small panel embedded in the rearview mirror with three colored buttons — white, blue, and red — that connected the vehicle, via satellite and cell tower, to a room full of operators in a call center hundreds of miles away. Press the blue button and a human voice would give you directions. Press the red button and the car itself would cry for help. General Motors called it OnStar. The company had spent two years and 55 failed prototypes getting it to work.<sup>1</sup>
