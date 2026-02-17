@@ -28,11 +28,13 @@ weight: 10
 </center>
 <br>
 
+<img src="telematics_ds.jpeg" alt="Telematics Data Scientist" style="width: 100%; height: auto;">
+
 {{< typography font="Roboto Serif:wght@100" size="0px">}}
 {{< /typography >}}
-{{< typography font="Roboto Serif" size="23px" weight="100">}}
-This is where I will provide an overview of telematics and my work.
-{{< /typography >}}
+> {{< typography font="Roboto Serif" size="18px" weight="100">}}
+    As a telematics data scientist, I conduct research on driving data and market trends to guide our business partners on product strategy. On the R&D side, I build predictive models and perform analysis using cloud computing tools — including AWS, Databricks, and Spark. On the business side, I conduct market research to develop product strategies informed by findings from our models and analysis. In practice, the role spans data analysis, data modeling, and product strategy.
+  {{< /typography >}}
 <br>
 
 {{< typography font="Roboto Serif" size="24px" weight="bold">}}
