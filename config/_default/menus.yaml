@@ -7,30 +7,41 @@ main:
   - name: Home
     url: #About\
     weight: 1
-  - name: Research
+  - name: Biological Physics
     identifier: research
     weight: 10
   - name: Self-assembly of emerin nanodomains
     parent: research
-    url: /research/self-assembly-of-emerin-nanodomains/
+    url: /biological-physics/self-assembly-of-emerin-nanodomains/
     weight: 10
   - name: Thermosensing through membrane mechanics
     parent: research
-    url: /research/thermosensing-through-membrane-mechanics/
+    url: /biological-physics/thermosensing-through-membrane-mechanics/
     weight: 20
   - name: Protein-induced bilayer deformations
     parent: research
-    url: /research/protein-induced-bilayer-deformations/
+    url: /biological-physics/protein-induced-bilayer-deformations/
     weight: 30
   - name: Microorganisms in quasi-2D membranes
     parent: research
-    url: /research/microorganisms-in-quasi-2d-membranes/
+    url: /biological-physics/microorganisms-in-quasi-2d-membranes/
     weight: 40
+  - name: 'Bacteria in porous media: KMC model'
+    parent: research
+    url: /biological-physics/bacteria-in-porous-media-simulations/
+    weight: 50
+  - name: Data Science
+    identifier: data-science
+    weight: 20
+  - name: Telematics
+    parent: data-science
+    url: /data-science/telematics/
+    weight: 10
   - name: Publications
     url: '/publications/'
     weight: 30
-  - name: CBS Poster 2022
-    url: '/posters/qcb-2022/qcb-2022-poster.pdf'
+  - name: Awards & Outreach
+    url: '/awards-and-outreach/'
     weight: 50
   - name: 'PDA Gallery'
     url: '/pda-gallery/'

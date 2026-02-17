@@ -43,6 +43,15 @@ content:
         brightness: 0.7
         media: EmerinProteinNanoDomainsPresentationTitlePage.png
         fit: contain
+    - title: 'Bacteria in porous media simulations'
+      content: 'Kinetic Monte Carlo modeling of bacterial hopping and trapping'
+      align: center
+      background:
+        position: top
+        color: '#666'
+        brightness: 0.7
+        media: BacteriaPorousMediaPresentationTitlePage.png
+        fit: contain
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
