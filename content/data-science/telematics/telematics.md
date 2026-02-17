@@ -37,27 +37,6 @@ weight: 10
   {{< /typography >}}
 <br>
 
-{{< typography font="Roboto Serif" size="23px" weight="100">}}
-Telematics in insurance is a relatively young field — barely twenty-five years old. When I set out to study it, I approached it the same way I had approached cellular signal transduction in biophysics, another discipline that was still finding its footing when I entered it: trace the field from its roots to its frontiers, read everything, and let the science guide the strategy.
-{{< /typography >}}
-<br>
-{{< typography font="Roboto Serif" size="23px" weight="100">}}
-I began by tracing the development of telematics from its technological origins — satellite navigation and on-board diagnostics — through the evolving political landscape that formed and shaped the field into what it is today. From there, I turned to the study of driving behaviors and their relationship to risk, drawing on both market research and the scientific literature. I read every paper I could get my hands on. I studied the markets themselves — the product strategies companies have used to target population segments and capture market share, and the difficulties the industry is having in scaling to greater data resolution.
-{{< /typography >}}
-<br>
-{{< typography font="Roboto Serif" size="23px" weight="100">}}
-Through the study of risk and driving behaviors, I've come to understand how to better quantify the relationship between our customers' exposure to risk and the way they actually drive, using our data. I've also explored theoretical models that bring physical understanding to why drivers exhibit certain driving behaviors in the first place.
-{{< /typography >}}
-<br>
-{{< typography font="Roboto Serif" size="23px" weight="100">}}
-Using these insights, I've increased productivity in our data analysis pipeline by 90 percent to address business needs, and introduced product strategies aimed at traditionally alienated driver populations — allowing for the capture of new market share and significantly increasing our book of business.
-{{< /typography >}}
-<br>
-{{< typography font="Roboto Serif" size="23px" weight="100">}}
-In these pages, I overview what I've come to understand about the field: its history, its current politics, and the next generation of metrics and models that will shape telematics as it revolutionizes the way drivers are priced by insurers — in such a way that democratizes premiums and gives drivers a say in how safe they really are.
-{{< /typography >}}
-<br>
-
 {{< typography font="Roboto Serif" size="24px" weight="bold">}}
 Table of Contents
 {{< /typography >}}
@@ -65,4 +44,21 @@ Table of Contents
 
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
 1. <a href="/data-science/telematics/history/">Industry History</a> — Thirty years behind the wheel: how telematics grew from a Cadillac gimmick into the force reshaping auto insurance.
+{{< /typography >}}
+<br>
+
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+Telematics in insurance is a young discipline — barely twenty-five years old — and still finding its shape. When I began studying it in earnest, I took the same approach that had served me well entering biophysics during a similarly unsettled period: start from first principles, read deeply, and let the research set the direction.
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+That meant tracing the technological foundations — satellite positioning, on-board diagnostics — through the regulatory and market forces that bent them into an industry. From there, the work moved into behavioral science: how drivers actually behave behind the wheel, what the academic literature says about the relationship between behavior and risk, and how traditional actuarial models have tried to approximate driving quality through psychology and claims history. I studied product strategy in parallel — how companies have segmented markets, competed on data, and where the field is running into friction on two fronts — pricing frameworks and risk models that haven't caught up to what modern sensors can capture, and a structural ceiling on environmental data, where the contextual resolution needed to fully interpret driver behavior remains locked behind political, financial, and legal barriers that no single carrier or third party has managed to overcome.
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+That foundation has had practical consequences. It enabled me to reduce time-to-insight in our data analysis pipeline by ninety percent, and to develop product strategies aimed at driver populations that conventional telematics programs routinely overlook — work that has opened new market segments and allowed us to meaningfully grow our book of business.
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
+What follows is a synthesis of what that study produced: the history of the field, the political and regulatory currents reshaping it, and the next generation of metrics and models I believe will define telematics as it matures — and as it moves closer to letting drivers demonstrate, rather than merely be assigned, their actual risk. The table of contents above serves as a guide to each of these topics, and will grow as new sections are added.
 {{< /typography >}}
