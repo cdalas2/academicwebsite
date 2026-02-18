@@ -9,9 +9,7 @@ weight: 100
 content:
   filters:
     folders:
-      - telematics_references
-    categories:
-      - 'driving-exposure'
+      - driving_exposure_references
   count: 0
   sort_by: 'Date'
   sort_ascending: true
