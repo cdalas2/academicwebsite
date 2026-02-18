@@ -323,7 +323,7 @@ Here is the critical distinction that the lawsuits exposed: there is a world of 
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
-The first model — voluntary, transparent, opt-in telematics — is the one that democratizes insurance. A 90% majority of surveyed drivers agree that it is fair to price insurance based on driving skill and safety, so long as they understand the terms.<sup>46</sup> Programs like Travelers' IntelliDrive, and similar offerings from other major carriers, are built on this model. The driver enrolls. The driver sees what's measured. The driver gets actionable feedback. And for the two-thirds of participants whose premiums decrease, the tradeoff is clear and welcome.
+The first model — voluntary, transparent, opt-in telematics — is the one that democratizes insurance. A 90% majority of surveyed drivers agree that it is fair to price insurance based on driving skill and safety, so long as they understand the terms.<sup>46</sup> Programs like Travelers' IntelliDrive, and similar offerings from other major carriers, are built on this model. The driver enrolls. The driver sees what's measured. The driver gets actionable feedback. And for the majority of participants whose premiums decrease, the tradeoff is clear and welcome.
 {{< /typography >}}
 <br>
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
