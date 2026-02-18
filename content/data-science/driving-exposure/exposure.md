@@ -34,6 +34,10 @@ weight: 10
 <a href="/data-science/telematics/">&larr; Back to Telematics</a>
 {{< /typography >}}
 <br>
+{{< typography font="Roboto Serif" size="18px">}}
+<a href="/data-science/telematics/history/">&larr; Industry History</a>
+{{< /typography >}}
+<br>
 
 {{< typography font="Roboto Serif" size="24px" weight="bold">}}
 From Calendars to Sensors: The Unfinished Science of Driving Exposure
@@ -211,3 +215,10 @@ Telematics has not closed that gap.¹¹˒²² What it has done is make the gap v
 The denominator that auto insurance needs — a measurement of exposure that reflects the actual texture of driving risk, not merely its volume — is no longer a theoretical abstraction.¹¹˒¹⁸˒²⁴˒⁴⁵ It is a known quantity, visible at the edges of what the current data infrastructure can deliver.²²˒²⁴ Whether the industry can assemble the organizational, legal, and financial machinery to reach it is another question entirely.²⁴˒²⁵˒²⁸ History suggests it will get there, eventually, the same way it has gotten to every previous improvement: not in a single leap, but through the slow, uneven accumulation of what becomes practically possible.¹˒³˒⁴˒⁸˒⁴⁵
 {{< /typography >}}
 <br>
+{{< typography font="Roboto Serif" size="18px">}}
+<a href="/data-science/telematics/">&larr; Back to Telematics</a>
+{{< /typography >}}
+<br>
+{{< typography font="Roboto Serif" size="18px">}}
+<a href="/data-science/telematics/history/">&larr; Industry History</a>
+{{< /typography >}}
