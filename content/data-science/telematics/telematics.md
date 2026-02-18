@@ -48,6 +48,11 @@ Table of Contents
 <br>
 
 {{< typography font="Roboto Serif" size="23px" weight="100">}}
+2. <a href="/data-science/telematics/driving-exposure/">Driving Exposure</a> — From calendars to sensors: the unfinished science of measuring driving exposure in auto insurance.
+{{< /typography >}}
+<br>
+
+{{< typography font="Roboto Serif" size="23px" weight="100">}}
 Telematics in insurance is a young discipline — barely twenty-five years old — and still finding its shape. When I began studying it in earnest, I took the same approach that had served me well entering biophysics during a similarly unsettled period: start from first principles, read deeply, and let the research set the direction.
 {{< /typography >}}
 <br>
