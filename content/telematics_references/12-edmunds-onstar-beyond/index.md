@@ -10,6 +10,7 @@ date: '2000-01-08'
 lastmod: '2026-02-13T00:00:00Z'
 featured: false
 draft: false
+weight: 12
 image:
   caption: ''
   focal_point: ''
