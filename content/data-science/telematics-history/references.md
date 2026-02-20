@@ -13,7 +13,7 @@ content:
     categories:
       - 'telematics-history'
   count: 0
-  sort_by: 'Date'
+  sort_by: 'Weight'
   sort_ascending: true
 design:
   view: citation
